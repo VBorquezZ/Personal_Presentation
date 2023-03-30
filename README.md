@@ -33,10 +33,10 @@ I'm Vicente Borquez, I live in Santiago de Chile. Currently I'm a Computer Scien
 
 ## Tech Stack 🛠️
 
-Programming Languages
+Programming Languages and Enviroments
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
-
+![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=flat-square&logo=anaconda&logoColor=white)
 
 Data Science and Machine Learning Frameworks
 
@@ -46,16 +46,9 @@ Data Science and Machine Learning Frameworks
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white])
 
 
-Enviroments, Containers, Deploy, CI, etc.
-
-![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=flat-square&logo=anaconda&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-
-
-
 Others
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
-
+![Github](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
