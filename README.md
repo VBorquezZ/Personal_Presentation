@@ -2,7 +2,7 @@
 <h2> Vicente's Github Profile</h2>
 </div>
 <div align="center" width="50">
-<img src="assets/welcome_g.gif" alt="Welcome!" width="480"/>
+<img src="assets/welcome_g.gif" alt="Welcome!" width="1080"/>
 </div>
 
 <div align="center">
