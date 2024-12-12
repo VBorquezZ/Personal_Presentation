@@ -7,7 +7,9 @@
 
 <div align="center">
 
-I'm Vicente Borquez, I live in Santiago de Chile. Currently I'm a Computer Science student at University of Chile. 
+I'm Vicente Borquez, I live in Santiago de Chile. 
+
+I have a bachelor’s degree in Civil Computing Engineering. I also have a master’s degree in Data Science. I obtained both degrees at the University of Chile.
 
 
 </div>
@@ -18,11 +20,9 @@ I'm Vicente Borquez, I live in Santiago de Chile. Currently I'm a Computer Scien
 ---
 - I'm very pasionate in Data Science, Machine Learning, Deep Learning, Computer Vision and Natural Lenguaje Processing. I enjoy the constant learning path of these areas.
 
-- My both professional practices were real industry Data Science projects. One in NLP and the other in CV.
+- My both professional practices and also my freelance jobs were real industry Data Science projects. Mostly in NLP and CV.
 
-- In my University, I was teacher assistant of the course **CC6204 Deep Learning** and currently I hold the same possition in the course **EL4106 Computational Intelligence**.
-
-- My main objective rigth now is to get my Master's degree in the **MDS** *(Master in Data Science)* program of my university.
+- At my University, I was teacher assistant of many different courses (wich I really enjoyed), my favourites were **CC6204 Deep Learning** and **EL4106 Computational Intelligence**.
 
 - My main hobbies are 📚 reading, 🍳 cooking and 🥊 boxing.
 
